@@ -1,0 +1,11 @@
+*.log
+*.csv
+*.json
+*.cache
+mlruns/
+train/
+test/
+20230814_spotify.py
+create_playlist.ipynb
+trial_and_error.ipynb
+31_GettingOpsFeature copy.py
